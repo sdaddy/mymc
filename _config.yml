@@ -24,9 +24,12 @@ github_username:  sdaddy
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

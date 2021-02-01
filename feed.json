@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "MyMC",
+    "description": "",
+    "home_page_url": "https://mymc.page",
+    "feed_url": "https://mymc.page/feed.json",
+    "user_comment": "",
+    "icon": "https://mymc.page/media/website/MyMC.svg",
+    "author": {
+        "name": "Shawn"
+    },
+    "items": [
+        {
+            "id": "https://mymc.page/hello-world/",
+            "url": "https://mymc.page/hello-world/",
+            "title": "Hello World",
+            "summary": " This is more or less placeholder text while I finish getting things set up. The website will serve as a resource for rules, help, Dynmaps, screenshots, etc. for servers that are currently online. ",
+            "content_html": "\n  <p>\n    This is more or less placeholder text while I finish getting things set up. The website will serve as a resource for rules, help, Dynmaps, screenshots, etc. for servers that are currently online.\n  </p>",
+            "author": {
+                "name": "Shawn"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-01-31T20:25:49-05:00",
+            "date_modified": "2021-01-31T20:25:49-05:00"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>MyMC</title>
+    <link href="https://mymc.page/feed.xml" rel="self" />
+    <link href="https://mymc.page" />
+    <updated>2021-01-31T20:25:49-05:00</updated>
+    <author>
+        <name>Shawn</name>
+    </author>
+    <id>https://mymc.page</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Shawn</name>
+        </author>
+        <link href="https://mymc.page/hello-world/"/>
+        <id>https://mymc.page/hello-world/</id>
+
+        <updated>2021-01-31T20:25:49-05:00</updated>
+            <summary>
+                <![CDATA[
+                     This is more or less placeholder text while I finish getting things set up. The website will serve as a resource for rules, help, Dynmaps, screenshots, etc. for servers that are currently online. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    This is more or less placeholder text while I finish getting things set up. The website will serve as a resource for rules, help, Dynmaps, screenshots, etc. for servers that are currently online.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
